@@ -1,0 +1,15 @@
+for windows
+
+Windows + V: Opens your Clipboard History. This is a lifesaver—it lets you see and paste things you copied earlier, not just the very last thing 
+Windows + Period (.): Pops up the Emoji & GIF Panel. Perfect for quickly adding symbols, emojis, or GIFs to any text box or chat 
+Windows + Left/Right Arrow: Uses Snap Assist to instantly split your screen, pinning your current window to one side so you can multitask easily 
+Windows + Shift + T: Let's you Cycle through apps on the taskbar. You can then press Enter to open the one you want without touching your mouse 
+Windows + L: Locks your PC instantly. Use this whenever you step away from your desk to keep your data private 
+
+for chrome
+
+Ctrl + Shift + Delete: Opens the Clear Browsing Data options immediately so you can wipe your history, cookies, or cache in seconds 
+Ctrl + 1 through 8: Jumps to a specific tab by its number (e.g., Ctrl + 3 goes to the third tab from the left). Ctrl + 9 always takes you to the very last tab 
+Spacebar / Shift + Spacebar: Quickly scrolls down or scrolls up a full screen on a webpage without using the mouse wheel 
+Ctrl + Plus (+)/Minus (-): Quickly Zooms in or out on a page. Press Ctrl + 0 to reset the zoom back to 100% 
+Alt + Home: Instantly returns you to your Home page in your current tab 
