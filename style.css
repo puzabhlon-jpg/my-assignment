@@ -1,0 +1,81 @@
+/* 1. Disney+ Movie Theater Background */
+body {
+    background: radial-gradient(circle at top, #30323e 0%, #1a1d29 100%);
+    font-family: 'Inter', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    color: #f9f9f9;
+}
+
+/* 2. The Cinematic Card */
+.card {
+    background-color: #1a1d29;
+    width: 320px;
+    padding: 50px 30px;
+    border-radius: 12px; /* Disney+ uses cleaner, slightly sharp corners */
+    text-align: center;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.6);
+    border: 2px solid rgba(249, 249, 249, 0.1);
+    transition: all 0.3s ease-in-out;
+}
+
+/* Hover Effect: Glow and Scale */
+.card:hover {
+    transform: scale(1.05);
+    border-color: rgba(249, 249, 249, 0.7);
+    box-shadow: 0 20px 50px rgba(0, 0, 0, 0.9);
+}
+
+/* 3. The Name (ID Selector) */
+#profile-name {
+    color: #f9f9f9;
+    font-size: 28px;
+    font-weight: 900; /* Extra bold for impact */
+    letter-spacing: 2px; /* Cinematic wider spacing */
+    text-transform: uppercase;
+    margin-bottom: 8px;
+}
+
+/* 4. Contact Details (Class Selector) */
+.card-info {
+    font-size: 14px;
+    color: #a1a1a1;
+    margin-bottom: 25px;
+}
+
+.status {
+    color: #f9f9f9;
+    font-weight: 600;
+    margin-bottom: 12px;
+}
+
+/* 5. The Bio */
+.bio {
+    color: #c0c0c0;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 1.6;
+    margin-bottom: 35px;
+}
+
+/* 6. Disney+ Styled Button */
+.action-button {
+    background-color: #f9f9f9;
+    color: #1a1d29;
+    border: none;
+    padding: 12px 30px;
+    font-weight: 800;
+    font-size: 13px;
+    border-radius: 4px;
+    text-transform: uppercase;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+.action-button:hover {
+    background-color: #0072d2; /* Disney Blue */
+    color: #ffffff;
+}
